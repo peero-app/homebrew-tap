@@ -1,6 +1,6 @@
 cask "peero" do
-  version "1.0.1"
-  sha256 "662c458c84835402b210096c4cf51ec94feac164b296e19ae157e6d789ef76b6"
+  version "1.0.2"
+  sha256 "7c8bab7370bd7a286a8180b53448221ec46e44b23c90dbb805c7dde433740452"
 
   url "https://github.com/peero-app/peero/releases/download/v#{version}/peero-macos.zip"
   name "Peero"
